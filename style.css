@@ -1,0 +1,13 @@
+.cabecalho{
+    background-color: aqua;
+    color: rgb(212, 255, 0);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1.0rem;
+    justify-items: center;
+}
+.main{
+    background-color: brown;
+}
+body{
+    background-color: blue;
+}
